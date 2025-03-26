@@ -1,10 +1,15 @@
-# Drop64
+# Nintendo 32 - Web N64 Emulator
 
 Nintendo N64 displayed in a browser window and controlled by a smartphone. Emscripten compiled mupen64plus, ionic app, socket.io input proxying, and a paradrop chute wrapper.
 
-You need to bring your own ROM to play, games are not hosted here. Nintendo wouldn't be happy about that.
+You need to bring your own ROM to play, or choose one from the list to download. ( IDC about Nintendo ) 
 
-Chrome has issues rendering the display. Please use firefox if you encounter problems.
+Chrome has issues rendering the display. IDK how to fix it.  Please use firefox if you encounter problems.
+
+To simplify the running locally by yourself, make a new codespace of the forked repository, do npm install, then once its finished, to npm start.
+then go to the port. ( You Dont have to make it public ) 
+
+This stuff below is left over stuff incase you know wat your doing.
 
 ## Running
 
